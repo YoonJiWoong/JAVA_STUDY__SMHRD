@@ -1,0 +1,12 @@
+
+public class µµ«¸ {
+	
+	static double πÿ∫Ø;
+	static double ≥Ù¿Ã;
+	
+	public static double ≥–¿Ã(double πÿ∫Ø, double ≥Ù¿Ã) {
+		
+		return πÿ∫Ø*≥Ù¿Ã;
+	}
+
+}
